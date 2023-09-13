@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claudio</h1>
-<h3 align="center">A brazilian-italian developer, researcher and associate professor currently at <a href="https://ifgoiano.edu.br/" target="blank"> IF Goiano</a></h3> 
+<h3 align="center">A researcher and associate professor currently at <a href="https://ifgoiano.edu.br/" target="blank"> IF Goiano</a></h3> 
 
 - 🔭 I’m currently working on **Blockchain and Data Science educational projects**
 
