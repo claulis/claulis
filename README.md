@@ -24,10 +24,10 @@
 </a>
   <a href="https://www.instagram.com/cl4ud1o2022/" target="_blank">
   <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20%40cl4ud1o2022-orange?logo=instagram">
-</a> 👈 for all the 🌍 <br> 
+</a> 
   <a href="http://lattes.cnpq.br/4607303092740768" target="_blank">
   <img alt="Currículo Lattes" src="https://img.shields.io/badge/Lattes-Ver%20Currículo-green">
-</a> 👈 for 🇧🇷 (it's an academic curriculum for brazilian educational/research system 🤓)
+</a> 
 </p>
 
 
