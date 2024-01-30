@@ -22,10 +22,7 @@
 <a href="https://www.linkedin.com/in/claudioulisse/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect to claudioulisse-blue?logo=linkedin">
 </a>
-  <a href="https://www.instagram.com/cl4ud1o2022/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-Follow%20%40cl4ud1o2022-orange?logo=instagram">
-</a> 
-  <a href="http://lattes.cnpq.br/4607303092740768" target="_blank">
+   <a href="http://lattes.cnpq.br/4607303092740768" target="_blank">
   <img alt="Currículo Lattes" src="https://img.shields.io/badge/Lattes-Ver%20Currículo-green">
 </a> 
 </p>
