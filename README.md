@@ -1,15 +1,9 @@
-<h1 align="center">Hi 👋, I'm Claudio</h1>
-<h3 align="center">A researcher and associate professor currently at <a href="https://ifgoiano.edu.br/" target="blank"> IF Goiano</a></h3> 
 
-- 🔭 I’m currently working on **Blockchain and Data Science educational projects**
+<h3 align="center">A professor currently at <a href="https://ifgoiano.edu.br/" target="blank"> IF Goiano</a></h3> 
 
-- 🌱 I’m currently learning **...everything that is possible, when there's spare time.** 😂
+- I’m currently working on **Blockchain and Data Science educational projects**
 
-- 👯 I’m looking to collaborate on **Blockchain and AI in Education**
-
-- 🤝 I’m looking for help with **insights for new projects**
-
-- 📫 How to reach me **claudio.ulisse@ifgoiano.edu.br**
+- How to reach me **claudio.ulisse@ifgoiano.edu.br**
 
 
 <h3 align="left">Mini resume</h3>
