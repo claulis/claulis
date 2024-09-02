@@ -1,5 +1,5 @@
 
-<h3 align="center">A professor currently at <a href="https://ifb.edu.br/" target="blank"> IFB</a></h3> 
+<h3 align="center">Professor currently at <a href="https://ifb.edu.br/" target="blank"> IFB</a></h3> 
 
 - I’m currently working on **Blockchain, Web3 and Data Science educational projects**
 
