@@ -1,9 +1,8 @@
 
-<h3 align="center">A professor currently at <a href="https://ifgoiano.edu.br/" target="blank"> IF Goiano</a></h3> 
+<h3 align="center">A professor currently at <a href="https://ifb.edu.br/" target="blank"> IFB</a></h3> 
 
-- I’m currently working on **Blockchain and Data Science educational projects**
+- I’m currently working on **Blockchain, Web3 and Data Science educational projects**
 
-- How to reach me **claudio.ulisse@ifgoiano.edu.br**
 
 
 <h3 align="left">Mini resume</h3>
