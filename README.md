@@ -6,7 +6,7 @@
 
 
 <h3 align="left">Mini resume</h3>
-<p align="left">  Computer Science Professor, Bachelor in Information Systems, specializing in Data Warehouse and Business Intelligence, Master in Intellectual Property and Technology Transfer for Innovation. Systems analyst and developer for web and desktop environments. Experience in system integration, distributed architecture, .NET, SQL SERVER, Javascript, Nodejs, PHP, Linux environment, SAP, IBM. Interests in Blockchain, Web3, and Data Science.</p>
+<p align="left">  Computer Science Professor with a Bachelor's degree in Information Systems. Holds a Master's degree in Intellectual Property and Technology Transfer for Innovation. Experienced systems analyst and web developer, with expertise in system integration and distributed architecture. Proficient in .NET, SQL Server, JavaScript, Node.js, PHP, and Linux environments, as well as SAP and IBM technologies. Passionate about Blockchain, Web3, and Data Science. </p>
 
 
 <h3 align="left">Connect with me:</h3>
