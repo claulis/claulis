@@ -20,6 +20,9 @@
 </a> 
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=claulis&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=claulis&theme=default)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
